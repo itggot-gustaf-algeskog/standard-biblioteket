@@ -1,4 +1,4 @@
-# Tar ett heltal som input och ger absolutvärdet på talet som output.
+# Public: Tar ett heltal som input och ger absolutvärdet på talet som output.
 #
 # number - Talet som omvandlas till absolutvärde.
 #

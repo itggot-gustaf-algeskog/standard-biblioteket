@@ -1,6 +1,7 @@
-# Tar ett heltal som input och avgör om talet är udda.
+# Public: Tar ett heltal som input och avgör om talet är udda.
 #
 # number - Talet som kontrolleras.
+# odd - Output
 #
 # Examples
 #

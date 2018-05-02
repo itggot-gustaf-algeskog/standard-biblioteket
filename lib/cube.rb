@@ -1,4 +1,4 @@
-# Tar ett heltal som input och ger kubiken på talet som output.
+# Public: Tar ett heltal som input och ger kubiken på talet som output.
 #
 # number - Vilket tal som ska kuberas.
 #

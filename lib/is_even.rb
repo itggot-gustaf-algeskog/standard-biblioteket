@@ -1,6 +1,7 @@
-# Tar ett heltal som input och avgör om talet är jämnt.
+# Public: Tar ett heltal som input och avgör om talet är jämnt.
 #
 # number - Talet som kontrolleras.
+# even - Output
 #
 # Examples
 #

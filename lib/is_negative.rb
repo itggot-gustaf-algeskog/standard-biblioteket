@@ -1,6 +1,7 @@
-# Tar ett heltal som input och avgör om talet är negativt.
+# Public: Tar ett heltal som input och avgör om talet är negativt.
 #
 # number - Talet som kontrolleras.
+# negative - Output
 #
 # Examples
 #

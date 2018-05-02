@@ -1,4 +1,4 @@
-# Tar ett heltal som input och ger föregående tal som output.
+# Public: Tar ett heltal som input och ger föregående tal som output.
 #
 # number - Vilket tal som ska subtraheras.
 #
